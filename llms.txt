@@ -1,0 +1,19 @@
+# PC Game Port
+
+> A native macOS app that runs Windows PC games on Apple Silicon Macs (M1 or newer) by translating Windows and DirectX into macOS, Metal and Rosetta 2. No virtual machine or Windows licence needed. Made in South Australia.
+
+- Add a game's .exe, or pick its installer and PC Game Port installs it and adds the game to a library.
+- Graphics: DirectX 10 and 11 run on Metal out of the box; 64-bit DirectX 12 runs through Apple's free D3DMetal (a one-time download the app walks you through); older DirectX, DirectDraw and OpenGL games work too.
+- Check System Requirements: paste a game's requirements and each line is compared with your Mac before you download.
+- Won't run: games with kernel-level anti-cheat (many competitive online games), installs from discs or ISO images, Intel Macs.
+- Requires macOS 14 or later, Apple Silicon and Rosetta 2.
+- Price: free 14-day trial with every feature, no card or account. Then $7.99 AUD a month or $69.99 AUD a year. Full refund within 7 days of the first payment or a yearly renewal. Cancel anytime online.
+- Privacy: no account, no analytics, no tracking.
+
+## Pages
+
+- [Home](https://pcgameport.com/): features, pricing, install steps and FAQ
+- [Refund Policy](https://pcgameport.com/refund.html)
+- [Terms of Use](https://pcgameport.com/terms.html)
+- [Privacy Policy](https://pcgameport.com/privacy.html)
+- [Affiliate Program](https://pcgameport.blink.store/affiliates): earn commission referring PC Game Port subscribers
